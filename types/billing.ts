@@ -35,7 +35,7 @@ export const CreditsPack: CreditsPack[] = [
     name: "Large Pack",
     label: "10,000 credits",
     credits: 10000,
-    price: 6999, // $69.99
+    price: 5999, // $59.99
     priceId: process.env.STRIPE_LARGE_PACK_PRICE_ID!,
   },
 ];
